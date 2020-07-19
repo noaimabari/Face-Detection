@@ -1,4 +1,4 @@
-# Face-Detection-
+# Face-Detection
 
 This is a simple face detection program for detecting faces in images and live video streams using the pre-trained model in OpenCV.
 
